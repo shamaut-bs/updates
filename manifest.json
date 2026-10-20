@@ -1,0 +1,24 @@
+{
+ "version": "0.1.6",
+ "installer": "ShumaQC-Setup-0.1.6.exe",
+ "parts": [
+  {
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.6/ShumaQC-Setup-0.1.6.exe.part01",
+   "sha256": "087c047f2a50ba18f7c847ba4133f2ca029be9d76257a114a082fdf58003c263"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.6/ShumaQC-Setup-0.1.6.exe.part02",
+   "sha256": "039f975401e7a82602dfe51fab5c04c34bafeb331c17384553530b375b77172a"
+  },
+  {
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.6/ShumaQC-Setup-0.1.6.exe.part03",
+   "sha256": "3d452dc39c2b8a656210c7f8676d4f588ee5773a89fd53b422557035f5702a91"
+  }
+ ],
+ "sha256": "d5dea24307e7eeaa3772517c8430b3942779f2dceff38a14673ad50a206bd912",
+ "targets": [
+  "*"
+ ],
+ "notes": "גרסה ראשונה עם עדכון אוטומטי",
+ "published": "2026-10-20 16:54"
+}
