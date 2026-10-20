@@ -1,24 +1,24 @@
 {
- "version": "0.1.6",
- "installer": "ShumaQC-Setup-0.1.6.exe",
+ "version": "0.1.8",
+ "installer": "ShumaQC-Setup-0.1.8.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.6/ShumaQC-Setup-0.1.6.exe.part01",
-   "sha256": "087c047f2a50ba18f7c847ba4133f2ca029be9d76257a114a082fdf58003c263"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.8/ShumaQC-Setup-0.1.8.exe.part01",
+   "sha256": "d487687f96a812d3ba4e2462b18c58333089eb542403bea45b1ecb516348f29a"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.6/ShumaQC-Setup-0.1.6.exe.part02",
-   "sha256": "039f975401e7a82602dfe51fab5c04c34bafeb331c17384553530b375b77172a"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.8/ShumaQC-Setup-0.1.8.exe.part02",
+   "sha256": "1ced8c752ceaf8e7d24e016f778c4a6d24f17aed1feb67faeabba8c8fd03a5f8"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.6/ShumaQC-Setup-0.1.6.exe.part03",
-   "sha256": "3d452dc39c2b8a656210c7f8676d4f588ee5773a89fd53b422557035f5702a91"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.8/ShumaQC-Setup-0.1.8.exe.part03",
+   "sha256": "837f18a5867475ab15bc6b1d4c96dffe5068463ff67b17848d69d60dfac238d2"
   }
  ],
- "sha256": "d5dea24307e7eeaa3772517c8430b3942779f2dceff38a14673ad50a206bd912",
+ "sha256": "1afc526886f9c5cad2b41c7f8fc3ab520bbc2c63e087352d88fcdd4df44bb8c7",
  "targets": [
   "*"
  ],
- "notes": "גרסה ראשונה עם עדכון אוטומטי",
- "published": "2026-10-20 16:54"
+ "notes": "כיבוי בדיקת טופס 4, תיקון חישוב שטח חריגה, סמלי מצב לתיקיות",
+ "published": "2026-10-20 18:48"
 }
