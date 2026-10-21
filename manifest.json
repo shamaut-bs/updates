@@ -4,21 +4,21 @@
  "parts": [
   {
    "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.8/ShumaQC-Setup-0.1.8.exe.part01",
-   "sha256": "d487687f96a812d3ba4e2462b18c58333089eb542403bea45b1ecb516348f29a"
+   "sha256": "4e2ca69e5369acba1de0ee1c2d1fae739de701098c4248b0d429ba2602900555"
   },
   {
    "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.8/ShumaQC-Setup-0.1.8.exe.part02",
-   "sha256": "1ced8c752ceaf8e7d24e016f778c4a6d24f17aed1feb67faeabba8c8fd03a5f8"
+   "sha256": "bfd5c05663252431af07e2531150c0cdf44488e0b0eab0f711313e77f314f8b8"
   },
   {
    "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.8/ShumaQC-Setup-0.1.8.exe.part03",
-   "sha256": "837f18a5867475ab15bc6b1d4c96dffe5068463ff67b17848d69d60dfac238d2"
+   "sha256": "534975b2aef5f110478d708edd2fb3dc0fc6d26787185221d86ad2ff8dae5db7"
   }
  ],
- "sha256": "1afc526886f9c5cad2b41c7f8fc3ab520bbc2c63e087352d88fcdd4df44bb8c7",
+ "sha256": "517bb699f098c72bddde338ac55cbbc20b435e414676d056c0e787834ae41d42",
  "targets": [
   "*"
  ],
- "notes": "כיבוי בדיקת טופס 4, תיקון חישוב שטח חריגה, סמלי מצב לתיקיות",
- "published": "2026-10-20 18:48"
+ "notes": "בדיקת משכנתאות מול אישורי הזכויות, כיבוי בדיקת טופס 4, תיקון חישוב שטח חריגה, סמלי מצב לתיקיות",
+ "published": "2026-10-21 12:24"
 }
