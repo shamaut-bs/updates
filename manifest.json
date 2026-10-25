@@ -1,24 +1,24 @@
 {
- "version": "0.1.9",
- "installer": "ShumaQC-Setup-0.1.9.exe",
+ "version": "0.2.0",
+ "installer": "ShumaQC-Setup-0.2.0.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.9/ShumaQC-Setup-0.1.9.exe.part01",
-   "sha256": "8b4c67a8eaba6f6f6e6c437c053e048ca3903426f59967d729897c530117367a"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.0/ShumaQC-Setup-0.2.0.exe.part01",
+   "sha256": "5636363f32258ec9b382ba80c12d81c34370d36ed307e9bd6c30181fe6b00718"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.9/ShumaQC-Setup-0.1.9.exe.part02",
-   "sha256": "c3ba9d27f9c8772fe68c58c21c3f2372ecfe9750ce73a948cf7806fb73f2bd81"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.0/ShumaQC-Setup-0.2.0.exe.part02",
+   "sha256": "ac8f37bf9789434847d248ea31f3820330e79e2d3f708f5a5601aa04d2b9a79a"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.1.9/ShumaQC-Setup-0.1.9.exe.part03",
-   "sha256": "109c6b669a3b3daaeee893c2761dfdf0a880be195dee9aa29c5eaac87cd75d6f"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.0/ShumaQC-Setup-0.2.0.exe.part03",
+   "sha256": "381dcdc36896131bd3ac4bf4368aea507283acadf375dcba4bd7d3729326028d"
   }
  ],
- "sha256": "98b831bd7d6d1b41e6c0a84619673710d7d70132907d7edd6bd59e455b1cf078",
+ "sha256": "2b21fff94223683ca340e6d47628df013b709f2589d96e44ed1e431f98ef10a9",
  "targets": [
   "*"
  ],
- "notes": "דיווח ללוח הבקרה, משוב מהדוח ללוח, בדיקת משכנתאות, תיקון סכום שטחי היתר עם חדרי גג",
- "published": "2026-10-22 13:15"
+ "notes": "אימות כל ממצא מול המסמכים, בדיקה חופשית של כל התיק, דוח לפי סדר הטיוטה, הוזלת עלות, ניסיון חוזר כשהחיבור נקטע",
+ "published": "2026-10-25 13:13"
 }
