@@ -1,24 +1,24 @@
 {
- "version": "0.2.1",
- "installer": "ShumaQC-Setup-0.2.1.exe",
+ "version": "0.2.2",
+ "installer": "ShumaQC-Setup-0.2.2.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.1/ShumaQC-Setup-0.2.1.exe.part01",
-   "sha256": "3264a26a47440abaa2c31faa9f9afad9a296088379a98db9eb6d9a697a092706"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.2/ShumaQC-Setup-0.2.2.exe.part01",
+   "sha256": "8544102aadec1f5b6f0fbe7c938fcdc516b281a543dffb19d0e6460c68d944d8"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.1/ShumaQC-Setup-0.2.1.exe.part02",
-   "sha256": "ae722903cbf746bdbed0dcc8e29171ae059e2b6d3b81fff7363b012840dd2cfe"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.2/ShumaQC-Setup-0.2.2.exe.part02",
+   "sha256": "eb74d22333e2c1e9e570135b2684e0d5219ed10d71af1f885e8114c472e06eb8"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.1/ShumaQC-Setup-0.2.1.exe.part03",
-   "sha256": "de0d54a0b5ad18b697eeae9f2555b6f160305d55813ce7a3d7bc67405dc76bf3"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.2/ShumaQC-Setup-0.2.2.exe.part03",
+   "sha256": "20a53693de47dc330245f28827ac0e9968da842ecad71c9380617d6a570f4431"
   }
  ],
- "sha256": "886e5f93f3a03c5a60254a218da50e31a5d38d452a0f6a88a142aa31a6dcc185",
+ "sha256": "ed368c195779ea529fd10fb168635c0d8cb3007e4fd1cb6d8ecdd41206653129",
  "targets": [
   "*"
  ],
- "notes": "בדיקת טופס 4 וגיל הבניין, נסח טאבו, חוזי שכירות מול הטיוטה, קריאת קובץ דחוס שבתוך התיק",
- "published": "2026-10-25 13:45"
+ "notes": "בדיקת הפקיד, הסניף ומספר התב״ע מול הפניית הבנק, סריקה מסודרת של ההפניה, בלי מורחבת בהפניה - שמאות רגילה",
+ "published": "2026-10-25 14:41"
 }
