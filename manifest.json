@@ -1,24 +1,24 @@
 {
- "version": "0.2.3",
- "installer": "ShumaQC-Setup-0.2.3.exe",
+ "version": "0.2.4",
+ "installer": "ShumaQC-Setup-0.2.4.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.3/ShumaQC-Setup-0.2.3.exe.part01",
-   "sha256": "298a1d36ef5d391ec46d4212d16c0a194596546a52696cd6c166be6a7108ea8d"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.4/ShumaQC-Setup-0.2.4.exe.part01",
+   "sha256": "224f9e7b1b59df88a97ffb7dba5fb3b3bfdda73e15a1f5ee2b0700f969ee2290"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.3/ShumaQC-Setup-0.2.3.exe.part02",
-   "sha256": "3672454f811fc090d04eaa2745c5e9bf7b85854375ec27cffaa18bf45fe2081b"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.4/ShumaQC-Setup-0.2.4.exe.part02",
+   "sha256": "ce19f5ff383049d5b00a56dc09fd188a9c210173701c0cf4cb998ff5152eadae"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.3/ShumaQC-Setup-0.2.3.exe.part03",
-   "sha256": "2fdc228ffee90ade7c2894978d65c7961cf8ebc174a857e4a2bd51221be323b4"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.4/ShumaQC-Setup-0.2.4.exe.part03",
+   "sha256": "d5337fb115d0c0cca0a13e4ee1e64478a751a25c955984a2806ba5f75ec9d931"
   }
  ],
- "sha256": "ffd75ccca9d68e7b1eaf262f130e1f206f95617956b20945608ca88b2457231a",
+ "sha256": "bb7dc2b5f25ff778d4d9ed21cec4dde6dd4505e333a4cd28c66ccb712b636f5c",
  "targets": [
   "*"
  ],
- "notes": "חוזה שכירות עם הארכות - תאריך הסיום האחרון, תיקון עדכון כפול, קריאה מדויקת יותר של הטיוטה",
- "published": "2026-10-26 13:38"
+ "notes": "דוח ברשימה אחת לפי סדר הטיוטה, חכירה רק כשהסתיימה, סעיף הערות כלליות ריק מותר, תוקף היתר רק בהלוואה לבנייה",
+ "published": "2026-10-26 15:09"
 }
