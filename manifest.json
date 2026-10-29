@@ -1,24 +1,24 @@
 {
- "version": "0.2.4",
- "installer": "ShumaQC-Setup-0.2.4.exe",
+ "version": "0.2.6",
+ "installer": "ShumaQC-Setup-0.2.6.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.4/ShumaQC-Setup-0.2.4.exe.part01",
-   "sha256": "224f9e7b1b59df88a97ffb7dba5fb3b3bfdda73e15a1f5ee2b0700f969ee2290"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.6/ShumaQC-Setup-0.2.6.exe.part01",
+   "sha256": "2423bfe93e8a6acb816faaac21ea64c5736f90c838422d5afe7236af74555148"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.4/ShumaQC-Setup-0.2.4.exe.part02",
-   "sha256": "ce19f5ff383049d5b00a56dc09fd188a9c210173701c0cf4cb998ff5152eadae"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.6/ShumaQC-Setup-0.2.6.exe.part02",
+   "sha256": "f7a0b4a3b1b2f7fe43e2c35c188e88553cd8c20b2aee836ae46b63a67fcf90c9"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.4/ShumaQC-Setup-0.2.4.exe.part03",
-   "sha256": "d5337fb115d0c0cca0a13e4ee1e64478a751a25c955984a2806ba5f75ec9d931"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.6/ShumaQC-Setup-0.2.6.exe.part03",
+   "sha256": "653b949c97a1fe333c4c3f33ac16a6fec82fc04f04a791555d1439b445607e57"
   }
  ],
- "sha256": "bb7dc2b5f25ff778d4d9ed21cec4dde6dd4505e333a4cd28c66ccb712b636f5c",
+ "sha256": "7f700d1fb84591d61bd0b14c20424eef59edd8ae7f0dd844140f95a15efac8dc",
  "targets": [
   "*"
  ],
- "notes": "דוח ברשימה אחת לפי סדר הטיוטה, חכירה רק כשהסתיימה, סעיף הערות כלליות ריק מותר, תוקף היתר רק בהלוואה לבנייה",
- "published": "2026-10-26 15:09"
+ "notes": "אכלוס מעורב (בעלים ושוכרים, דירה מפוצלת) כבר אינו סתירה, הסימון בוורד נופל על הערך השגוי עצמו ולא על כל השורה, הבדיקה מול ההיתר קוראת את המשך הסעיף, כפתור הווטסאפ הוסר",
+ "published": "2026-10-29 12:19"
 }
