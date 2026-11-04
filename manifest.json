@@ -1,24 +1,24 @@
 {
- "version": "0.2.7",
- "installer": "ShumaQC-Setup-0.2.7.exe",
+ "version": "0.2.8",
+ "installer": "ShumaQC-Setup-0.2.8.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.7/ShumaQC-Setup-0.2.7.exe.part01",
-   "sha256": "5c76330ca0ebdddf48c92f984616e23c230af1b7e411e47fb894cc0b29c133da"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.8/ShumaQC-Setup-0.2.8.exe.part01",
+   "sha256": "71ab7d6c0788df26a9adbdbd83a18ce92d95bd2377dbf28fbf67ff46482e2de6"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.7/ShumaQC-Setup-0.2.7.exe.part02",
-   "sha256": "4e812e818680086350b894db8c5e06f1e77fb62a4db101d033efe586995e8e64"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.8/ShumaQC-Setup-0.2.8.exe.part02",
+   "sha256": "28f16d08f5c0fdc0486eac0e741a28b7c7e9815b55b1e4ce52bef0de073fef4b"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.7/ShumaQC-Setup-0.2.7.exe.part03",
-   "sha256": "1055b862b99a04fbdb845d8be13b41f53f2d113f6641318e2386f02992c44cf4"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.8/ShumaQC-Setup-0.2.8.exe.part03",
+   "sha256": "5ce716670ed91451096188a117f080a3c63f5903545732d2266d182d9ba5ac30"
   }
  ],
- "sha256": "2370f6c25f1cec66f65f593addb6623fca52530fca75c1b6cd5c85fe3d4b8a81",
+ "sha256": "d635238ea79b8684fab818240c09a77991038adf405b6d22e82a7d20452a5f6c",
  "targets": [
   "*"
  ],
- "notes": "תיקיות עובדים (שמתחילות ב־א בדיקה): כל תיק בתוכן נבדק בנפרד, תיקייה ריקה לא נבדקת, דירה רגילה בבית משותף לא צריכה סעיף רישוי, השטח באישור המינהל הוא הקובע",
- "published": "2026-11-04 11:37"
+ "notes": "משוב לא נכון שומר עותק של התיק בתיקייה _למידה שבתיקייה המשותפת (נמחק אחרי 30 יום), ספירת קומות מתחת לכניסה + כניסה + מעל אינה סתירה, משכנתא חדשה שטרם נרשמה אינה ממצא",
+ "published": "2026-11-04 17:35"
 }
