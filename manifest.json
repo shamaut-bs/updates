@@ -1,24 +1,24 @@
 {
- "version": "0.2.9",
- "installer": "ShumaQC-Setup-0.2.9.exe",
+ "version": "0.2.10",
+ "installer": "ShumaQC-Setup-0.2.10.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.9/ShumaQC-Setup-0.2.9.exe.part01",
-   "sha256": "b9872081112ec90299e2638a4e8a765079d8d18ac6f0ade87cf4ede170402c62"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.10/ShumaQC-Setup-0.2.10.exe.part01",
+   "sha256": "8c507116eb63c2b0927b4ab946cbb1bcf27732e91d4fce692660bd1290eb07ee"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.9/ShumaQC-Setup-0.2.9.exe.part02",
-   "sha256": "093568f46361c02368566ec88f69201969d7e6e6c77cd7030c9550c99874c205"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.10/ShumaQC-Setup-0.2.10.exe.part02",
+   "sha256": "0997619f84b10d04cbeffea0b36e7481dd8a83062086be4d397231dc12684883"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.9/ShumaQC-Setup-0.2.9.exe.part03",
-   "sha256": "130bfb10e6affa907b94783dc24aafbc07774bf507a4b2f7341bc8064931bedb"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.10/ShumaQC-Setup-0.2.10.exe.part03",
+   "sha256": "8702ce79f9c93f5f8508c27e7af662c0019e8516f007d4265d43fa0b457c8fc3"
   }
  ],
- "sha256": "c765fb7d85ec38f3f089b7c1ac07793f783649666ea954b187143eb05647dc33",
+ "sha256": "3d4773feea51c539414af2e093dca9ca8b4972d46715439d5b130bcf6a386200",
  "targets": [
   "*"
  ],
- "notes": "תיק נבדק פעם אחת בלבד גם כשכמה מחשבים רואים אותו: נעילה מרכזית בלוח הבקרה וסימן בבדיקה בתיק. מחשב העובד בודק את התיקים שלו ראשון; המחשב הראשי לוקח תיק מתיקיית עובד רק אחרי 10 דקות",
- "published": "2026-11-05 10:21"
+ "notes": "אותה הערה לא חוזרת בכמה סעיפים, תב״ע 0 בהפניה אינו סתירה, מוסכמות: שווי קרקע אחרי עבודות, עלות לשלב, ערך כינון, טופס 4 לתוספות, דירה מפוצלת. בסוף הדוח תיבת מה הכלי פספס שנשלחת עם המשוב",
+ "published": "2026-11-05 10:43"
 }
