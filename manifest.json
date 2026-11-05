@@ -1,24 +1,24 @@
 {
- "version": "0.2.8",
- "installer": "ShumaQC-Setup-0.2.8.exe",
+ "version": "0.2.9",
+ "installer": "ShumaQC-Setup-0.2.9.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.8/ShumaQC-Setup-0.2.8.exe.part01",
-   "sha256": "71ab7d6c0788df26a9adbdbd83a18ce92d95bd2377dbf28fbf67ff46482e2de6"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.9/ShumaQC-Setup-0.2.9.exe.part01",
+   "sha256": "b9872081112ec90299e2638a4e8a765079d8d18ac6f0ade87cf4ede170402c62"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.8/ShumaQC-Setup-0.2.8.exe.part02",
-   "sha256": "28f16d08f5c0fdc0486eac0e741a28b7c7e9815b55b1e4ce52bef0de073fef4b"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.9/ShumaQC-Setup-0.2.9.exe.part02",
+   "sha256": "093568f46361c02368566ec88f69201969d7e6e6c77cd7030c9550c99874c205"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.8/ShumaQC-Setup-0.2.8.exe.part03",
-   "sha256": "5ce716670ed91451096188a117f080a3c63f5903545732d2266d182d9ba5ac30"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.9/ShumaQC-Setup-0.2.9.exe.part03",
+   "sha256": "130bfb10e6affa907b94783dc24aafbc07774bf507a4b2f7341bc8064931bedb"
   }
  ],
- "sha256": "d635238ea79b8684fab818240c09a77991038adf405b6d22e82a7d20452a5f6c",
+ "sha256": "c765fb7d85ec38f3f089b7c1ac07793f783649666ea954b187143eb05647dc33",
  "targets": [
   "*"
  ],
- "notes": "משוב לא נכון שומר עותק של התיק בתיקייה _למידה שבתיקייה המשותפת (נמחק אחרי 30 יום), ספירת קומות מתחת לכניסה + כניסה + מעל אינה סתירה, משכנתא חדשה שטרם נרשמה אינה ממצא",
- "published": "2026-11-04 17:35"
+ "notes": "תיק נבדק פעם אחת בלבד גם כשכמה מחשבים רואים אותו: נעילה מרכזית בלוח הבקרה וסימן בבדיקה בתיק. מחשב העובד בודק את התיקים שלו ראשון; המחשב הראשי לוקח תיק מתיקיית עובד רק אחרי 10 דקות",
+ "published": "2026-11-05 10:21"
 }
