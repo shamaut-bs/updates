@@ -1,24 +1,24 @@
 {
- "version": "0.2.11",
- "installer": "ShumaQC-Setup-0.2.11.exe",
+ "version": "0.2.12",
+ "installer": "ShumaQC-Setup-0.2.12.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.11/ShumaQC-Setup-0.2.11.exe.part01",
-   "sha256": "1966d91bee64d2a89abc81953f6a60f3aa45def970417ff2630b06667789f663"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.12/ShumaQC-Setup-0.2.12.exe.part01",
+   "sha256": "1cc4a11bd4031f3f8a6c52e1133d1e5874fbbc9e81f3ca6fa7e5fa764e7f9f8f"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.11/ShumaQC-Setup-0.2.11.exe.part02",
-   "sha256": "143ba6892d48d56ff90194acd1844444de98659eba35984dfc30c8bd358ca115"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.12/ShumaQC-Setup-0.2.12.exe.part02",
+   "sha256": "c8471903d3454209e4a462879b5ecc9fc3d81d7f2eac769e1e0e49bbec2a9351"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.11/ShumaQC-Setup-0.2.11.exe.part03",
-   "sha256": "f03d11b98588da97f00ca944ae1084a5118ebe27c51249e8cfbcedd5112db1c9"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.12/ShumaQC-Setup-0.2.12.exe.part03",
+   "sha256": "9e1b28f8bbec0844f23d4334ad7d26b14cae56f1354fb8eabb38b44da0aca81c"
   }
  ],
- "sha256": "440a540c7437509833259c81817adf3666a74593b861659d188de4a8123f88c6",
+ "sha256": "f5c50577dc44dfaccd0417d1feea19ca848fd4546447eb29b42dd91d907262b8",
  "targets": [
   "*"
  ],
- "notes": "בדיקה חדשה: כל הצמדה שבמסמכי הזכויות (גג, גינה, חניה, מחסן, מרפסת) חייבת להופיע בטיוטה, ושטחה תואם. שמירת ההגדרות בטוחה (לא נמחקות יותר). הכלי עולה מחדש מעצמו אם נסגר, ועדכון שנכשל מדווח ללוח",
- "published": "2026-11-05 12:27"
+ "notes": "הסימון בוורד מוצא את הציטוט גם עם הבדלי רווחים וגרשיים ובהערות שוליים, וטבלת אקסל מוטמעת מסומנת במסגרת צבעונית",
+ "published": "2026-11-05 12:47"
 }
