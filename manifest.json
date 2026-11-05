@@ -1,24 +1,24 @@
 {
- "version": "0.2.10",
- "installer": "ShumaQC-Setup-0.2.10.exe",
+ "version": "0.2.11",
+ "installer": "ShumaQC-Setup-0.2.11.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.10/ShumaQC-Setup-0.2.10.exe.part01",
-   "sha256": "8c507116eb63c2b0927b4ab946cbb1bcf27732e91d4fce692660bd1290eb07ee"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.11/ShumaQC-Setup-0.2.11.exe.part01",
+   "sha256": "1966d91bee64d2a89abc81953f6a60f3aa45def970417ff2630b06667789f663"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.10/ShumaQC-Setup-0.2.10.exe.part02",
-   "sha256": "0997619f84b10d04cbeffea0b36e7481dd8a83062086be4d397231dc12684883"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.11/ShumaQC-Setup-0.2.11.exe.part02",
+   "sha256": "143ba6892d48d56ff90194acd1844444de98659eba35984dfc30c8bd358ca115"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.10/ShumaQC-Setup-0.2.10.exe.part03",
-   "sha256": "8702ce79f9c93f5f8508c27e7af662c0019e8516f007d4265d43fa0b457c8fc3"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.11/ShumaQC-Setup-0.2.11.exe.part03",
+   "sha256": "f03d11b98588da97f00ca944ae1084a5118ebe27c51249e8cfbcedd5112db1c9"
   }
  ],
- "sha256": "3d4773feea51c539414af2e093dca9ca8b4972d46715439d5b130bcf6a386200",
+ "sha256": "440a540c7437509833259c81817adf3666a74593b861659d188de4a8123f88c6",
  "targets": [
   "*"
  ],
- "notes": "אותה הערה לא חוזרת בכמה סעיפים, תב״ע 0 בהפניה אינו סתירה, מוסכמות: שווי קרקע אחרי עבודות, עלות לשלב, ערך כינון, טופס 4 לתוספות, דירה מפוצלת. בסוף הדוח תיבת מה הכלי פספס שנשלחת עם המשוב",
- "published": "2026-11-05 10:43"
+ "notes": "בדיקה חדשה: כל הצמדה שבמסמכי הזכויות (גג, גינה, חניה, מחסן, מרפסת) חייבת להופיע בטיוטה, ושטחה תואם. שמירת ההגדרות בטוחה (לא נמחקות יותר). הכלי עולה מחדש מעצמו אם נסגר, ועדכון שנכשל מדווח ללוח",
+ "published": "2026-11-05 12:27"
 }
