@@ -1,24 +1,24 @@
 {
- "version": "0.2.12",
- "installer": "ShumaQC-Setup-0.2.12.exe",
+ "version": "0.2.13",
+ "installer": "ShumaQC-Setup-0.2.13.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.12/ShumaQC-Setup-0.2.12.exe.part01",
-   "sha256": "1cc4a11bd4031f3f8a6c52e1133d1e5874fbbc9e81f3ca6fa7e5fa764e7f9f8f"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.13/ShumaQC-Setup-0.2.13.exe.part01",
+   "sha256": "2141178e9607b4202292f9148593a5c1df04f91e61693ab1fdbdce204b3e46e6"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.12/ShumaQC-Setup-0.2.12.exe.part02",
-   "sha256": "c8471903d3454209e4a462879b5ecc9fc3d81d7f2eac769e1e0e49bbec2a9351"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.13/ShumaQC-Setup-0.2.13.exe.part02",
+   "sha256": "a661f1d9ac92f21ad40d1040db3e9909e13c55efe8ad696a875545189c13aa24"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.12/ShumaQC-Setup-0.2.12.exe.part03",
-   "sha256": "9e1b28f8bbec0844f23d4334ad7d26b14cae56f1354fb8eabb38b44da0aca81c"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.13/ShumaQC-Setup-0.2.13.exe.part03",
+   "sha256": "6ef0f5aa1601795650711a21ad48ad69f25ca9ba01e6e48400451cc17fd5ef33"
   }
  ],
- "sha256": "f5c50577dc44dfaccd0417d1feea19ca848fd4546447eb29b42dd91d907262b8",
+ "sha256": "85505f783050e6a2db5b2d0ba56e7e9bb5aec8441495e6d703ce898fa307e9bd",
  "targets": [
   "*"
  ],
- "notes": "הסימון בוורד מוצא את הציטוט גם עם הבדלי רווחים וגרשיים ובהערות שוליים, וטבלת אקסל מוטמעת מסומנת במסגרת צבעונית",
- "published": "2026-11-05 12:47"
+ "notes": "שורת אין באישור הזכויות אינה הצמדה, תאריך התמונות רק לפי תאריך הצילום של המצלמה, סעיף שתוכנו בהמשך השורה אינו ריק, מוסכמות: מספר דירה מול תת חלקה, תוספת לפי היתר שטרם נבנתה",
+ "published": "2026-11-12 09:57"
 }
