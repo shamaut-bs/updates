@@ -1,24 +1,24 @@
 {
- "version": "0.2.14",
- "installer": "ShumaQC-Setup-0.2.14.exe",
+ "version": "0.2.15",
+ "installer": "ShumaQC-Setup-0.2.15.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.14/ShumaQC-Setup-0.2.14.exe.part01",
-   "sha256": "569b783e772c70c15c492e1ef0d9981f0959c225bfa6f94df03eed1415b42fe4"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.15/ShumaQC-Setup-0.2.15.exe.part01",
+   "sha256": "8ede0cc1a3c570f6ea29b4883f6ccf166d6ce4c0f907bf1cd66867ac3fa34bbb"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.14/ShumaQC-Setup-0.2.14.exe.part02",
-   "sha256": "46a2354d7418fa69171a12eaca0c53107b480cd131ee65cc91021f9aae15f3bd"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.15/ShumaQC-Setup-0.2.15.exe.part02",
+   "sha256": "30372e2d79d3e12419022b53d306a5283b79f73818d026664032fdc91580dd48"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.14/ShumaQC-Setup-0.2.14.exe.part03",
-   "sha256": "abaddc7eab98593450d9b5afeec76566188ccccd7803d9e9d65323edbcbe38fb"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.15/ShumaQC-Setup-0.2.15.exe.part03",
+   "sha256": "3bec4a7531ec17157ede4a63fe0685fc9889afc39be085fb4d203ef5723d1867"
   }
  ],
- "sha256": "72d9fa4128191978347c07e2996303ccde135a1f5227a17847d1f1ec18a82fd8",
+ "sha256": "a129c70e783e703685d49e79f0ac06e909ab1522d3e29aa40419eb717283d89f",
  "targets": [
   "*"
  ],
- "notes": "יציבות: תקלה בתיק אחד לא עוצרת את המאזין והוא מופעל מחדש אם נעצר, בדיקה שנתקעת יותר מ-45 דקות נעצרת (נסגר רק הוורד של הכלי), קבצי עבודה ישנים נמחקים אחרי שבועיים, ולוח הבקרה מראה אם המאזין באמת פועל",
- "published": "2026-11-12 10:37"
+ "notes": "בטיוטה: הערה בשוליים לכל ממצא, ותיקון בעקוב אחר שינויים כשהערך הנכון ידוע ממסמך בתיק (טעות הקלדה במספר, מספר הלוואה). הסר סימונים מסיר גם אותם. עדכון נבדק כל שעה, ועדכון שממתין לא נותן להתחיל תיק חדש",
+ "published": "2026-11-12 11:01"
 }
