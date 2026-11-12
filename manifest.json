@@ -1,24 +1,24 @@
 {
- "version": "0.2.13",
- "installer": "ShumaQC-Setup-0.2.13.exe",
+ "version": "0.2.14",
+ "installer": "ShumaQC-Setup-0.2.14.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.13/ShumaQC-Setup-0.2.13.exe.part01",
-   "sha256": "2141178e9607b4202292f9148593a5c1df04f91e61693ab1fdbdce204b3e46e6"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.14/ShumaQC-Setup-0.2.14.exe.part01",
+   "sha256": "569b783e772c70c15c492e1ef0d9981f0959c225bfa6f94df03eed1415b42fe4"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.13/ShumaQC-Setup-0.2.13.exe.part02",
-   "sha256": "a661f1d9ac92f21ad40d1040db3e9909e13c55efe8ad696a875545189c13aa24"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.14/ShumaQC-Setup-0.2.14.exe.part02",
+   "sha256": "46a2354d7418fa69171a12eaca0c53107b480cd131ee65cc91021f9aae15f3bd"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.13/ShumaQC-Setup-0.2.13.exe.part03",
-   "sha256": "6ef0f5aa1601795650711a21ad48ad69f25ca9ba01e6e48400451cc17fd5ef33"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.14/ShumaQC-Setup-0.2.14.exe.part03",
+   "sha256": "abaddc7eab98593450d9b5afeec76566188ccccd7803d9e9d65323edbcbe38fb"
   }
  ],
- "sha256": "85505f783050e6a2db5b2d0ba56e7e9bb5aec8441495e6d703ce898fa307e9bd",
+ "sha256": "72d9fa4128191978347c07e2996303ccde135a1f5227a17847d1f1ec18a82fd8",
  "targets": [
   "*"
  ],
- "notes": "שורת אין באישור הזכויות אינה הצמדה, תאריך התמונות רק לפי תאריך הצילום של המצלמה, סעיף שתוכנו בהמשך השורה אינו ריק, מוסכמות: מספר דירה מול תת חלקה, תוספת לפי היתר שטרם נבנתה",
- "published": "2026-11-12 09:57"
+ "notes": "יציבות: תקלה בתיק אחד לא עוצרת את המאזין והוא מופעל מחדש אם נעצר, בדיקה שנתקעת יותר מ-45 דקות נעצרת (נסגר רק הוורד של הכלי), קבצי עבודה ישנים נמחקים אחרי שבועיים, ולוח הבקרה מראה אם המאזין באמת פועל",
+ "published": "2026-11-12 10:37"
 }
