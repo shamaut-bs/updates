@@ -1,24 +1,24 @@
 {
- "version": "0.2.15",
- "installer": "ShumaQC-Setup-0.2.15.exe",
+ "version": "0.2.16",
+ "installer": "ShumaQC-Setup-0.2.16.exe",
  "parts": [
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.15/ShumaQC-Setup-0.2.15.exe.part01",
-   "sha256": "8ede0cc1a3c570f6ea29b4883f6ccf166d6ce4c0f907bf1cd66867ac3fa34bbb"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.16/ShumaQC-Setup-0.2.16.exe.part01",
+   "sha256": "72d3f3c4649662fb11f38b6f2a51f9fe7db1c5b06b1343a0612763948177522b"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.15/ShumaQC-Setup-0.2.15.exe.part02",
-   "sha256": "30372e2d79d3e12419022b53d306a5283b79f73818d026664032fdc91580dd48"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.16/ShumaQC-Setup-0.2.16.exe.part02",
+   "sha256": "f9613c3742589000afcbba92750528dcc831cd9d6fc01d06502b83c642836225"
   },
   {
-   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.15/ShumaQC-Setup-0.2.15.exe.part03",
-   "sha256": "3bec4a7531ec17157ede4a63fe0685fc9889afc39be085fb4d203ef5723d1867"
+   "url": "https://raw.githubusercontent.com/shamaut-bs/updates/main/releases/0.2.16/ShumaQC-Setup-0.2.16.exe.part03",
+   "sha256": "5d74fbdcdf929b40944c07eb789387dd3f9ad90ea221fc55dcc1be468379c848"
   }
  ],
- "sha256": "a129c70e783e703685d49e79f0ac06e909ab1522d3e29aa40419eb717283d89f",
+ "sha256": "5b4a7200174b60a8fc3394a5a233aa9303626fd2c8bbeeba78b2cf536cf01e64",
  "targets": [
   "*"
  ],
- "notes": "בטיוטה: הערה בשוליים לכל ממצא, ותיקון בעקוב אחר שינויים כשהערך הנכון ידוע ממסמך בתיק (טעות הקלדה במספר, מספר הלוואה). הסר סימונים מסיר גם אותם. עדכון נבדק כל שעה, ועדכון שממתין לא נותן להתחיל תיק חדש",
- "published": "2026-11-12 11:01"
+ "notes": "תיקון חמור: תיק לא יכול יותר לקבל את עמודי התיק שנבדק לפניו, וממצא שמצטט עמוד שלא קיים בתיק נפסל. ערך מחוזה בכתב יד מסומן לוידוא. דירה אחת לא מושווית לשטח של קומה שלמה בהיתר. משוב זהה נשלח פעם אחת",
+ "published": "2026-11-16 10:10"
 }
